@@ -14,3 +14,6 @@ If you're fortunate enough to be using Nix, I've provided a `shell.nix` file
 to allow you to get the right environment set up on your machine. Just run
 `nix-shell` in the repository directory. Then run `jupyter notebook` to launch
 a Jupyter server.
+
+## Ideas to investigate
+- receding horizons to limit the number of points to use when streaming KDEs
